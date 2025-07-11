@@ -54,4 +54,34 @@ header {
    text-align: center;
 }
 
+/* header end  */
+
+/* main section start  */
+
+
+/* Box 01  */
+.box-01{
+    display: flex;
+    justify-content: space-between;
+    margin: 150px 250px 0px 250px;
+    align-items: center;
+}
+
+.box-01-h2{
+    color: #252432;
+}
+
+.box-01-para{
+    color: #5c5b74;
+}
+
+.box-01-img{
+    border-radius: 48px;
+    height: 328px;
+    width: 405px;
+}
+
+
+
+
 
